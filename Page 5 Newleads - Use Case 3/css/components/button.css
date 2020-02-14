@@ -1,0 +1,28 @@
+
+
+.buttonconnexion {
+	background: none;
+  color: white;
+	padding: 4px 8px;
+	font-size: 8px;
+}
+
+
+
+
+
+
+
+
+/*PAS UTILISE POUR LE MOMENT*/
+.button{
+  background-color: #ebe6e6;
+  color: white;
+  padding: 10px 30%;
+  border-radius: 4px;
+  box-shadow: 0px 2px 15px rbv(200,200,200);
+  font-size: 11px;
+}
+
+
+

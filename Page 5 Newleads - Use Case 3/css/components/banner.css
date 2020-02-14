@@ -1,0 +1,72 @@
+.banner{
+
+	background-size: cover;
+	background-position: center;
+	color: white;
+	padding: 10px 0px;
+}
+
+
+.banner h1{
+	font-size: 32px;
+  color: white;
+  margin: 0px 40px;
+}
+
+.banner h2{
+	font-size: 20px;
+	font-weight: lighter;
+	opacity: 100%;
+	margin: 0px 40px;
+	text-align: right;
+  font-family: 'Happy Monkey', cursive;
+}
+
+.banner h3{
+  font-size: 16px;
+  }
+
+.banner a{
+	margin-left:20px;
+  margin-top: 7px;
+
+}
+
+.sign{
+	display: flex;
+	justify-content: flex-end;
+	color:white ;
+  margin: 0px 40px
+}
+
+
+
+#bannertop{
+	background-image: linear-gradient(-225deg,rgba(0,0,0,0.1) 0%, rgba(0,0,0,0.2) 99%);
+  background-color: #0c7b93;
+}
+
+
+
+#bannermiddle{
+  background-image: linear-gradient(-225deg,rgba(0,0,0,0.1) 0%, rgba(0,0,0,0.2) 99%);
+}
+
+
+
+#bannerdown{
+    background-color: #F7F7F7;
+    margin-top: 0px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: black;
+}
+
+#bannerdown h3{
+  font-family: 'Happy Monkey', cursive;
+  }
+
+
+
+
